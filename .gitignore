@@ -1,0 +1,13 @@
+*.jpeg
+*.jpg
+*.png
+*.jfif
+*.webp
+*.xcf
+/chrome_profile/*
+*.exe
+*.csv
+*.ttf
+*.otf
+/node_modules/*
+*.ini

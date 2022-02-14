@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pandas": "^0.0.3",
+    "requests": "^0.3.0",
+    "selenium": "^2.20.0"
+  }
+}
